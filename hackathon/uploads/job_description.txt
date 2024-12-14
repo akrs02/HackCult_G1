@@ -1,0 +1,8 @@
+Skills: MySQL, Java, Javascript, Go
+Responsibilities:
+Develop and maintain software
+ Collaborate with team members
+ Ensure code quality
+Qualifications:
+ Bachelor's degree in Computer Science
+ 3+ years of relevant experience
